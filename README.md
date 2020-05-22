@@ -1,4 +1,5 @@
-![App Demo](images/demo.png)
+![App Demo](https://user-images.githubusercontent.com/44858018/82666042-9e688280-9bfa-11ea-82e2-35b8fe85d829.png)
+
 
 # Mi Card
 
