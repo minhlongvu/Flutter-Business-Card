@@ -1,4 +1,4 @@
-![App Demo](https://imgur.com/a/jgLv4C5)
+![App Demo](images/demo.png)
 
 # Mi Card
 
